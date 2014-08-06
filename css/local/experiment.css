@@ -4,11 +4,6 @@ body {
 	background: white;
 }
 
-.jumbotron {
-	background: rgba(0, 204, 255, 0.62);
-	height: 100%;
-}
-
 li {
 	list-style-type: none;
 }

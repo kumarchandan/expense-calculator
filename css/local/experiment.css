@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background: white;
+}
+
+.jumbotron {
+	background: rgba(0, 204, 255, 0.62);
+	height: 100%;
+}
+
+li {
+	list-style-type: none;
+}
+
+.mylogo {
+	background-color: #f60;
+	font: 16px/25px "ars-maquette-web", Arial, sans-serif;
+	width: 50px;
+	color: #fff;
+	font-weight: bold;
+	height: 50px;
+	margin-right: 10px;
+	display: block;
+	float: left;
+	text-align: center;
+	padding: 11px;
+}
+.variable-div{
+/* 	background-color: #666; */
+}
+.fixed-div{
+	margin-top: 10px;
+}
+li.btn-name-expense{
+	margin-left: 39px !important;
+}
+
